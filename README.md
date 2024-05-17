@@ -1,2 +1,2 @@
 # demo
-Delete Later
+Delete Later, after the demo
